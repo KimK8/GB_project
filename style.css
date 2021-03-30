@@ -119,6 +119,9 @@ margin: 0 auto;
     display: inline-block;
     margin-top: 71px;
 }
+.top_button:hover {
+    background-color: #5A80D0;
+}
 .what-we-do {
     padding-top: 64px;
 }
@@ -156,6 +159,9 @@ margin: 0 auto;
     letter-spacing: 0.05em;
     color: #5A98D0;
     text-decoration: none;
+}
+.card_link:hover {
+    text-decoration: underline;
 }
 .item_text {
     padding-bottom: 30px;
@@ -246,6 +252,9 @@ margin: 0 auto;
     color: #FFFFFF;
     background: #5A98D0;
     text-decoration: none;
+}
+.lets_talk:hover {
+    background-color: #5A80D0;
 }
 .footer_hr {
     border: 1px solid #FFFFFF;
